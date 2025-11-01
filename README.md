@@ -1,4 +1,4 @@
-# Smart Public Transport — Efficiency & Delay Analytics
+# Smart Public Transport Efficiency & Delay Analytics
 
 Dataset: https://www.kaggle.com/datasets/balasrivatsa/apsrtc-public-transportation-data
 

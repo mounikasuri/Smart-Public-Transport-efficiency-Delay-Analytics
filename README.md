@@ -1,5 +1,5 @@
 **Title : Smart Public Tranport Efficiency delay analytics** 
- 
+ **Dataset :** kaggle link - https://www.kaggle.com/datasets/balasrivatsa/apsrtc-public-transportation-data
  **Summary**
 This Power BI project focuses on the analysis of APSRTC bus transportation data to generate actionable business insights for operational efficiency and strategic improvements. The project involved importing and cleansing the APSRTC_Cleaned.csv dataset, which contains detailed records of routes, depots, dates, passenger counts, occupancy rates, revenue, fuel usage, and related operational attributes. Data transformation steps included ensuring consistent data types, handling missing values, and removing unnecessary columns to prepare the dataset for reliable analysis. Although only one table was supplied, standard modeling practices—such as checking data integrity, organizing field hierarchies, and setting up logical groupings—were followed to optimize dashboard design.
 
